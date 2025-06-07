@@ -6,6 +6,7 @@
   "private": false,
   "license": "WTFPL",
   "type": "module",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/mdpauley/node-tv-listings.git"
