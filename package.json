@@ -2,7 +2,7 @@
   "name": "node-tv-listings",
   "description": "tv-listings provides access to TV guide data for various cable and broadcast networks across the United States and Canada.",
   "author": "mdpauley <npm@mdpauley.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "license": "WTFPL",
   "type": "module",
