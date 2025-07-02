@@ -1,0 +1,27 @@
+{
+  "name": "node-tv-listings",
+  "description": "tv-listings provides access to TV guide data for various cable and broadcast networks across the United States and Canada.",
+  "author": "mdpauley <npm@mdpauley.com>",
+  "version": "1.0.0",
+  "private": false,
+  "license": "WTFPL",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdpauley/node-tv-listings.git"
+  },
+  "bugs": "https://github.com/incrediblemolk/node-tv-listings/issues",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^17.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "packageManager": "pnpm@10.11.1",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.7.1",
+    "sinon": "^21.0.0"
+  }
+}
