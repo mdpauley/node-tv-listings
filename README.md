@@ -34,7 +34,7 @@ Tutorial available <a href="http://www.incrediblemolk.com/accessing-tv-listings-
 
 ```javascript
 
-import tvAPI = require('node-tv-listings');
+import TVListings from "node-tv-listings";
 var tv = new tvAPI({
     apiKey: process.env.YOUR_TVMEDIA_KEY
 });
